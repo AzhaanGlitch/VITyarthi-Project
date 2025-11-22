@@ -1,0 +1,5 @@
+# Compile (from project root)
+javac -d bin src/models/*.java src/services/*.java src/utils/*.java src/Main.java
+
+# Run
+java -cp bin Main
