@@ -78,18 +78,30 @@ java -cp bin Main
   - Invalid inputs (negative grades, empty names)
   - Edge cases (maximum/minimum grades)
 
+## Project Diagrams
+
+### System Architecture
+![Architecture](/docs/diagrams/04-architecture-diagram.drawio.png)
+
+### Use Case Diagram
+![Use Case](/docs/diagrams/01-use-case-diagram.drawio.png)
+
+### Class Diagram
+![Class Diagram](/docs/diagrams/02-class-diagram.drawio.png)
+
 ## Screenshots
-*(Console-based application - text output examples in documentation)*
+
+### Main Menu
+![Main Menu](/docs/screenshots/01-main-menu.png)
+
+### Student Report
+![Student Report](/docs/screenshots/04-student-report.png)
+
+### Class Statistics
+![Class Statistics](docs/screenshots/05-class-statistics.png)
 
 ## Non-Functional Requirements
 - **Performance**: Responds within 1 second for all operations
 - **Usability**: Simple menu-driven interface
 - **Reliability**: Data persists across sessions
 - **Maintainability**: Modular code with clear separation of concerns
-
-## Future Enhancements
-- GUI interface using JavaFX
-- Database integration (MySQL/PostgreSQL)
-- Advanced analytics and visualizations
-- Export reports to PDF
-- Multi-user support with authentication
