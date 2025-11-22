@@ -48,7 +48,7 @@ StudentGradeSystem/
 ### Steps to Run
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AzhaanGlitch/VITyarthi-Project.git
 cd StudentGradeSystem
 ```
 
@@ -81,13 +81,13 @@ java -cp bin Main
 ## Project Diagrams
 
 ### System Architecture
-![Architecture](/docs/diagrams/04-architecture-diagram.drawio.png)
+![Architecture](/docs/diagrams/04-architecture-diagram.png)
 
 ### Use Case Diagram
-![Use Case](/docs/diagrams/01-use-case-diagram.drawio.png)
+![Use Case](/docs/diagrams/01-use-case-diagram.png)
 
 ### Class Diagram
-![Class Diagram](/docs/diagrams/02-class-diagram.drawio.png)
+![Class Diagram](/docs/diagrams/02-class-diagram.png)
 
 ## Screenshots
 
